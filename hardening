@@ -2,8 +2,14 @@
 
 
 1- What is a script? An executable file that contains commands to accomplish specific tasks. 
+
 2- How can you run a script that does not have execute permission? You can use the bash or sh.
+
 3- What is a for loop? It is a bash programming language statement which allows code to be repeatedly executed.  It is classified as an iteration statement, that is the repetition of a process within a bash script.
+
 4- How do you close an if statement? You close an if statement with fi. 
+
 5- what is your experience using awk and sed command? I am proficient in using the sed and awk commands in bash shell scripting. I have used the awk command at my previous job to work on several projects, one of which was to write a script that would audit the entire Centos system. I had to use the awk command to filter and extract data for that script. The sed command was also helpful in inserting and replacing some lines into my script. 
+
+10- Data service staff you with a company , and they want you to advise or help them secure their ubuntu servers. How would you do that? I would use the CIS Benchmark documentation as a guide to secure their ubuntu servers.
 
